@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Colossal
 {
-    [BepInPlugin("org.ColossusYTTV", "2DMonk", "1.0.0")]
+    [BepInPlugin("org.ColossusYTTV", "TttttaaaallllForest", "1.0.0")]
     public class Main : BaseUnityPlugin
     {
         private void OnEnable()
